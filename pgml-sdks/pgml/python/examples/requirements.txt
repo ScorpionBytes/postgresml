@@ -10,7 +10,7 @@ filelock==3.12.3
 frozenlist==1.4.0
 fsspec==2023.6.0
 huggingface-hub==0.16.4
-idna==3.4
+idna==3.7
 markdown-it-py==3.0.0
 mdurl==0.1.2
 multidict==6.0.4
